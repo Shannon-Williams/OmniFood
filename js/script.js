@@ -1,10 +1,5 @@
-console.log("Hello World!");
-
 const myName = "Shannon Williams";
 const h1 = document.querySelector(".heading-primary");
-
-console.log(myName);
-console.log(h1);
 
 // h1.addEventListener("click", function () {
 //   h1.textContent = myName;
